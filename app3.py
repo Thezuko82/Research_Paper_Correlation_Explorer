@@ -6,6 +6,8 @@ import plotly.express as px
 st.set_page_config(page_title="Research Paper Correlation Explorer", layout="wide")
 st.title("📊 Research Paper Correlation Explorer")
 st.markdown("Explore relationships between variables from both sheets of your research Excel data.")
+st.markdown("Link : https://link.springer.com/chapter/10.1007/978-981-99-1388-6_22")
+st.markdown("Created by Rohit Maurya")
 
 # --- Excel file link ---
 # 🔁 Replace the URL below with the actual direct Excel file link
