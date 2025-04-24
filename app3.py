@@ -9,7 +9,7 @@ st.markdown("Explore relationships between variables from both sheets of your re
 
 # --- Excel file link ---
 # 🔁 Replace the URL below with the actual direct Excel file link
-EXCEL_URL = "https://github.com/Thezuko82/Research_Paper_Correlation_Explorer/blob/main/Research%20paper%20data%20-%20Copy.xlsx"
+EXCEL_URL = "Research paper data - Copy.xlsx"
 
 # Load Excel file from link
 @st.cache_data
